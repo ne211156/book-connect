@@ -8,7 +8,6 @@ class CreateUsers < ActiveRecord::Migration[7.0]
       t.string :Password, null: false
       t.boolern :AccessX, null: false
       t.boolern :AccessAmazon, null: false
-      #テスト
       t.timestamps
     end
   end
