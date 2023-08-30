@@ -1,0 +1,2 @@
+class Nosizedecoration < ApplicationRecord
+end

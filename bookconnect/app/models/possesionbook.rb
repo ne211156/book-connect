@@ -1,0 +1,2 @@
+class Possesionbook < ApplicationRecord
+end

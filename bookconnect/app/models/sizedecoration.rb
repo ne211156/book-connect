@@ -1,0 +1,2 @@
+class Sizedecoration < ApplicationRecord
+end

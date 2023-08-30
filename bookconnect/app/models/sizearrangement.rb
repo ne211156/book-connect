@@ -1,0 +1,2 @@
+class Sizearrangement < ApplicationRecord
+end

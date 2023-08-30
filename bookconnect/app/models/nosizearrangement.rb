@@ -1,0 +1,2 @@
+class Nosizearrangement < ApplicationRecord
+end
